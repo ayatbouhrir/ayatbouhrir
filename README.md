@@ -4,7 +4,7 @@
 
 # Hi, I'm Ayat Bouhrir 👋
 
-### AI & Data Science · Software Engineering · Data-Driven Applications
+### AI & Data Science · Data-Driven Applications
 
 **Master's student in Artificial Intelligence, Data Science and Cyber-Physical Systems (IA2S)**  
 **Université Paris-Est Créteil (UPEC)**
